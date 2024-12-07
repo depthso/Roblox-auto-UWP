@@ -1,10 +1,15 @@
 # Roblox UWP for the Roblox website
-This extension stops the Web version of Roblox launching and instead launches the UWP version on the Roblox website.<br/>
-This extension supports: joining friends, private servers, public servers, .... 
 
-[🍪] **You can now use any account logged into UWP to join a friend's game! <br/>**
+This Userscript replaces the protocal for the 64x bit client (also known as the web-client), with the protocol for opening the UWP Roblox (Microsoft store Roblox).
 
-To run this extenion, you will need [Tampermonkey](https://www.tampermonkey.net/)
+You can also replace the protocol used in the script with a custom one if you decide to do so.
+
+## Supported ✴️ 
+- Joining friends (even with account mismatch)
+- Private servers
+- Public servers
+
+To use this script, you will need: [Tampermonkey](https://www.tampermonkey.net/)
 <br/>
 
 https://github.com/depthso/Roblox-auto-UWP/assets/86912923/ceed8ef6-c9a4-49b4-b49a-99cdac9a7e76
